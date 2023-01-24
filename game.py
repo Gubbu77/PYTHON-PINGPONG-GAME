@@ -2,7 +2,7 @@ import turtle
 
 window = turtle.Screen()
 window.title("PING PONG")
-window.setup(width=800, height=600)
+window.setup(width=600, height=600)
 window.bgcolor("black")
 window.tracer(0)
 
