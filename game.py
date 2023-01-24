@@ -50,11 +50,11 @@ ball.dy = 0.1
 
 pen = turtle.Turtle()
 pen.speed(0)
-pen.color("white")
+pen.color("red")
 pen.penup()
 pen.hideturtle()
 pen.goto(0, 260)
-pen.write("Player A :  0  Player B : 0 ",align="center" , font=("Courier", 20, "normal"))
+pen.write("Player 1 :  0  Player 2 : 0 ",align="center" , font=("Courier", 20, "normal"))
 
 
 
